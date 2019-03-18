@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>BasicWebServer</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.googlecode.goclipse.goBuilder</name>
+			<triggers>clean,full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.googlecode.goclipse.core.goNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>bin</name>
+			<type>2</type>
+			<location>C:/Users/david/workspace/Go/bin</location>
+		</link>
+		<link>
+			<name>edit.html</name>
+			<type>1</type>
+			<location>C:/Users/david/workspace/Go/bin/pages/edit.html</location>
+		</link>
+		<link>
+			<name>pkg</name>
+			<type>2</type>
+			<location>C:/Users/david/workspace/Go/pkg</location>
+		</link>
+		<link>
+			<name>view.html</name>
+			<type>1</type>
+			<location>C:/Users/david/workspace/Go/bin/pages/view.html</location>
+		</link>
+	</linkedResources>
+</projectDescription>
